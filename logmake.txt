@@ -1,0 +1,2 @@
+g++ -Wall -DUNIX -g -march=pentium3 -I/opt/glew/include -O3  -c snakes.cpp
+g++ -Wall -DUNIX -g -march=pentium3 -I/opt/glew/include -O3  -c snakes.cpp
